@@ -9,10 +9,6 @@
 * [Mapbox Search JS](https://docs.mapbox.com/mapbox-search-js/guides/)
 * [Static Images API](https://docs.mapbox.com/api/maps/static-images/)
 
-![平台主页](https://github.com/user-attachments/assets/3af9af64-ed1d-44cc-8f74-6c57314cebaf)
-![地点标注](https://github.com/user-attachments/assets/db51152e-87da-4727-a1af-c776e19fb3b3)
-![无障碍信息反馈模块](https://github.com/user-attachments/assets/f3eb921e-5270-42ee-b7fd-53910c2867dc)
-
 
 ## 本地部署 (Windows-WSL2-Ubuntu)
 
